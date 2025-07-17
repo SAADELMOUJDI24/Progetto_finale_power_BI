@@ -20,7 +20,7 @@ All'interno di questo repository sono presenti i file originali e trasformati ut
 - **`progetto_finale.pdf`**  
   Versione in PDF della dashboard Power BI per consultazione statica.
 
-- **🔗 [Link al video su YouTube]([(https://youtu.be/AHPjJRROvZ8?si=T5YlJHcZnIQmc8z5)])**  
+- **🔗 [Link al video su YouTube]:[https://youtu.be/AHPjJRROvZ8?si=T5YlJHcZnIQmc8z5]**  
   Presentazione video del progetto (durata ~2:30 minuti), con sintesi dell’analisi e spiegazione delle visualizzazioni create.
 
 ## Note
